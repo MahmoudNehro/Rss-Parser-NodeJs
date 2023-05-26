@@ -1,5 +1,7 @@
 # Nodejs Rss Feed Parser
-
+# Technologies used
+- Backend: Nodejs, rss-parser library
+- Frontend: HTML5 , CSS , Bootstrap 5, Vanilla Javascript
 
 
 # Pre-requisites
