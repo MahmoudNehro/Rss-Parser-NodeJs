@@ -28,7 +28,11 @@ cd <project>\Frontend
 Open index.html
 ```
 
-## Project preview
+# Project preview
+## Videos Link:
+ https://drive.google.com/drive/folders/1cd-ojUnpKwcRM2WXTI5G1epWhmnDuErJ?usp=sharing
+
+## Screenshots
 ![home loading](1.png)
 ![jobs on map](2.png)
 ![jobs](3.png)
